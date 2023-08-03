@@ -65,5 +65,9 @@ Pour les shells, je vous conseille de ne pas perdre de temps dessus et de passer
 
 Exam00 :
 
+<table style="text-align:center;">
+  <tr><td>Exercice</td><td>Resultat</td></tr>
+<table>
+
 
 
