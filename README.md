@@ -1,10 +1,11 @@
-# piscine_072023
+# Piscine juillet 2023 Angoulême
 
 <strong>❗❗ Ces fichiers ne sont pas là pour être utilisé pendant une piscine. Je vous conseille très vivement de ne pas copier les codes ni même de les regarder. Un tuteur ou un staff pourrait vous pénaliser.❗❗ </strong>
 
 <h1>Résultat de la moulinette avec des infos complémentaires : </h1>
 
 <h2>BSQ :</h2>
+
 ![bsq](https://github.com/Kum1ta/piscine_072023/assets/59119791/114a7f5c-f754-427d-a42f-6f24b9c22024)
 Le bsq était reussi mais 2 petits problémes : 
 _ Une petite erreur en cas de problème de malloc dans fill_buffer. Il manque un * dans la condition.
@@ -111,6 +112,23 @@ Pour les shells, je vous conseille de ne pas perdre de temps dessus et de passer
   <tr><td>search_and_remplace</td><td>80/100</td></tr>
   <tr><td>count_word</td><td>90/100</td></tr>
   <tr><td>Résultat final : 100/100 (1h10)</td></tr>
+<table>
+
+<h2>Exam02 :</h2>
+
+<table style="text-align:center;">
+  <tr><td><strong>Exercice</strong></td><td><strong>Resultat</strong></td></tr>
+  <tr><td>hello</td><td>0/100</td></tr>
+  <tr><td>write_string</td><td>10/100</td></tr>
+  <tr><td>first_word</td><td>20/100</td></tr>
+  <tr><td>ft_strlen</td><td>30/100</td></tr>
+  <tr><td>ft_putnbr</td><td>50/100</td></tr>
+  <tr><td>aff_lat_param</td><td>60/100</td></tr>
+  <tr><td>last_word</td><td>70/100</td></tr>
+  <tr><td>count_word</td><td>80/100</td></tr>
+  <tr><td>ft_itoa</td><td>90/100</td></tr>
+  <tr><td>ft_split</td><td>90/100</td></tr>
+  <tr><td>Résultat final : 100/100 (1h17)</td></tr>
 <table>
 
 
