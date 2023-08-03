@@ -84,16 +84,16 @@ Exam01 :
 
 <table style="text-align:center;">
   <tr><td>Exercice</td><td>Resultat</td></tr>
-  <tr><td>only_a</td><td>0/100</td></tr>
-  <tr><td>aff_a</td><td>10/100</td></tr>
-  <tr><td>maff_alpha</td><td>20/100</td></tr>
-  <tr><td>ft_dec</td><td>30/100</td></tr>
-  <tr><td>write_string</td><td>40/100</td></tr>
-  <tr><td>print_interval</td><td>50/100</td></tr>
-  <tr><td>occ_z</td><td>60/100</td></tr>
-  <tr><td>ft_strrev</td><td>70/100</td></tr>
-  <tr><td>ft_strcmp</td><td>80/100</td></tr>
-  <tr><td>ft_atoi</td><td>90/100</td></tr>
+  <tr><td>ft_start</td><td>0/100</td></tr>
+  <tr><td>ft_swap</td><td>10/100</td></tr>
+  <tr><td>ft_putstr</td><td>20/100</td></tr>
+  <tr><td>ft_strlen</td><td>30/100</td></tr>
+  <tr><td>fizzbuzz</td><td>40/100</td></tr>
+  <tr><td>ft_strcpy</td><td>50/100</td></tr>
+  <tr><td>ft_atoi</td><td>60/100</td></tr>
+  <tr><td>aff_last_param</td><td>70/100</td></tr>
+  <tr><td>search_and_remplace</td><td>80/100</td></tr>
+  <tr><td>count_word</td><td>90/100</td></tr>
   <tr><td>Résultat final : 100/100 (1h10)</td></tr>
 <table>
 
