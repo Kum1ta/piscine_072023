@@ -122,13 +122,36 @@ Pour les shells, je vous conseille de ne pas perdre de temps dessus et de passer
   <tr><td>write_string</td><td>10/100</td></tr>
   <tr><td>first_word</td><td>20/100</td></tr>
   <tr><td>ft_strlen</td><td>30/100</td></tr>
-  <tr><td>ft_putnbr</td><td>50/100</td></tr>
-  <tr><td>aff_lat_param</td><td>60/100</td></tr>
-  <tr><td>last_word</td><td>70/100</td></tr>
-  <tr><td>count_word</td><td>80/100</td></tr>
-  <tr><td>ft_itoa</td><td>90/100</td></tr>
+  <tr><td>ft_putnbr</td><td>40/100</td></tr>
+  <tr><td>aff_last_param</td><td>50/100</td></tr>
+  <tr><td>last_word</td><td>60/100</td></tr>
+  <tr><td>count_word</td><td>70/100</td></tr>
+  <tr><td>ft_itoa</td><td>80/100</td></tr>
   <tr><td>ft_split</td><td>90/100</td></tr>
   <tr><td>Résultat final : 100/100 (1h17)</td></tr>
+<table>
+
+<h2>Exam03 (final) :</h2>
+
+<table style="text-align:center;">
+  <tr><td><strong>Exercice</strong></td><td><strong>Resultat</strong></td></tr>
+  <tr><td>aff_b</td><td>0/100</td></tr>
+  <tr><td>maff_revalpha</td><td>6/100</td></tr>
+  <tr><td>ft_strcmp</td><td>12/100</td></tr>
+  <tr><td>count_len</td><td>18/100</td></tr>
+  <tr><td>ft_atoi</td><td>24/100</td></tr>
+  <tr><td>print_even</td><td>30/100</td></tr>
+  <tr><td>ft_putnbr</td><td>36/100</td></tr>
+  <tr><td>aff_last_param</td><td>42/100</td></tr>
+  <tr><td>is_palindrome</td><td>48/100</td></tr>
+  <tr><td>count_word</td><td>54/100</td></tr>
+  <tr><td>ft_itoa</td><td>60/100</td></tr>
+  <tr><td>ft_split</td><td>66/100</td></tr>
+  <tr><td>ft_list_remove_if</td><td>72/100</td></tr>
+  <tr><td>count_alpha</td><td>78/100</td></tr>
+  <tr><td>str_maxlenoc</td><td>84/100</td></tr>
+  <tr><td>infini_mult</td><td>90/100</td></tr>
+  <tr><td>Résultat final : 90/100 (6h17)</td></tr>
 <table>
 
 
